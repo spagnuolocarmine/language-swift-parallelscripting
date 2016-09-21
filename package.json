@@ -1,7 +1,7 @@
 {
-  "name": "language-swift",
+  "name": "language-swift-parallelscripting",
   "version": "2.1.0",
-  "description": "Swift language support in Atom",
+  "description": "Swift Parallel Scripting language support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
@@ -9,10 +9,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/spagnuolocarmine/language-swift.git"
+    "url": "https://github.com/spagnuolocarmine/language-swift-parallelscripting.git"
   },
   "bugs": {
-    "url": "https://github.com/spagnuolocarmine/language-swift/issues"
+    "url": "https://github.com/spagnuolocarmine/language-swift-parallelscripting/issues"
   },
   "license": "MIT"
 }
