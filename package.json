@@ -1,0 +1,18 @@
+{
+  "name": "language-swift",
+  "version": "2.0.0",
+  "description": "Swift language support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spagnuolocarmine/language-swift.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spagnuolocarmine/language-swift/issues"
+  },
+  "license": "MIT"
+}
