@@ -1,6 +1,6 @@
-#Swift language support in Atom
+#Swift Parallel Scripting language support in Atom
 
-Adds syntax highlighting and snippets to [Swift](http://swift-lang.org/main/) parallel scripting language files in Atom editor.
+Adds syntax highlighting and snippets to [Swift](http://www.mcs.anl.gov/project/swift-fast-parallel-scripting-language) parallel scripting language files in Atom editor.
 
 Originally was the [C highlighting Atom support](https://github.com/atom/language-c).
 
