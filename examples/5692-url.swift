@@ -4,7 +4,6 @@ app echo(url i)
 {
   "echo" "echo:" i;
   ddd<"hol">;
-  ddd("cazzo");
 }
 
 main() {
